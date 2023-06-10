@@ -1,0 +1,21 @@
+footer {
+  background-color: #f2f2f2;
+  padding: 20px;
+  text-align: center;
+}
+
+.logo img {
+  width: 100px; /* Ajusta el tamaño según tus necesidades */
+}
+
+.redes-sociales a {
+  color: #000;
+  margin: 0 10px;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.redes-sociales a:hover {
+  color: #888;
+}
+
